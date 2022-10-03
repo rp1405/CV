@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Montserrat&family=Pacifico&family=Sacramento&family=Shadows+Into+Light+Two&display=swap');
+.body{
+    text-align: center;
+    margin: 0;
+    background-color: #3DB2FF;
+}
+.top_container{
+    margin: 0px;
+    text-align: center;
+    font-family:"Sacramento";
+    font-size: 30px;
+}
+.name{
+    font-family: "Pacifico";
+    color: #112B3C;
+    font-size: 45px;
+    margin: 0;
+}
+.top_container{
+    position: relative;
+    padding-top: 100px;
+    margin: 0;
+    background:#3DB2FF;
+    padding: 50px;
+}
+.tech{
+    margin:5px;
+    font-weight: bold;
+    color: #112B3C;
+}
+.cloud1{
+    position: absolute;
+    top: 80px;
+    right: 220px;
+}
+.cloud2{
+    position: absolute;
+    left: 200px;
+    top: 140px;
+/* ********************************************************Bottom Container*********************************************************** */
+}
+hr{
+    margin-top:0;
+    border-style: none;
+    border-top: 6px dotted white;
+    height: 2px;
+    width: 6%;
+}
+.rohan_img{
+    border-radius: 100%;
+    width: 20%;
+    margin-right: 20px;
+    margin-top: 40px;
+    float: left;
+}
+.skill_img{
+    width: 20%;
+    float: right;
+}
+.social_img{
+    border-radius: 100%;
+    width: 30%;
+    float: left;
+}
+.about{
+    margin: auto;
+    text-align: left;
+    width: 70%;
+    line-height: 1.5;
+    color: #112B3C;
+    font-family: "Shadows Into Light Two";
+    font-size: 20px;
+}
+.skills{
+    margin: auto;
+    text-align: left;
+    width: 50%;
+    position: relative;
+    padding-bottom: 40px;
+    color: #112B3C;
+    font-family: "Shadows Into Light Two";
+    font-size: 20px;
+}
+.social{
+    margin: auto;
+    width: 50%;
+    text-align: auto;
+    color: #112B3C;
+    font-family: "Montserrat";
+    font-size: 20px;
+}
+.social_p{
+    margin: 0;
+}
+.cloud3{
+    position: absolute;
+    left: 40px;
+    top: 1100px;
+}
+.cloud4{
+    position: absolute;
+    left: 70px;
+    top: 500px;
+}
+.cloud5{
+    position: absolute;
+    right: 70px;
+    top: 650px;
+}
+.cloud6{
+    position: absolute;
+    right: 30px;
+    top : 1100px;
+}
+.headings_part2{
+    font-family: "Pacifico";
+    color: #112B3C;
+    font-size: 30px;
+}
+.footer{
+    margin: 20px auto 3px;
+
+    padding: 30px 20px;
+    width:60%;
+}
+a{
+    color:rgb(187, 191, 192);
+    font-family: "Montserrat" sans-serif;
+    font-size: 20px;
+    margin: 20px 20px;
+}
+.simg{
+    width: 5%;
+    border-radius: 100%;
+}
+.popupImg1{
+    width: 40%;
+    position: absolute;
+    bottom:100px;
+    left: 600px;
+    position: fixed;
+    display: none;
+    box-shadow: 0 0 0 100000px rgba(0,0,0,.8);
+    border-radius: 10%;
+}
+.popupImg2{
+    width: 30%;
+    position: absolute;
+    bottom:100px;
+    left: 300px;
+    position: fixed;
+    display: none;
+    box-shadow: 0 0 0 100000px rgba(0,0,0,.8);
+    border-radius: 100%;
+}
